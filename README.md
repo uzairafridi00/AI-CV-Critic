@@ -1,3 +1,3 @@
-# AI GYM Instructor
+# AI CV Critic
 
-## Computer Vision Pose Detection
+## CV Analyzer
