@@ -2,5 +2,8 @@
 
 A smart, AI-powered tool designed to analyze and provide constructive feedback on your resume/CV.
 
+## Demo
+
+Link [https://ai-cv-critic.streamlit.app/]
 
 
