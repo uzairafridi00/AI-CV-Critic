@@ -12,5 +12,5 @@ Project Link: [https://ai-cv-critic.streamlit.app/]
 - Score System: Rates your CV across multiple dimensions
 - Secure Processing: Your documents are processed locally - no data is stored on servers
 - Responsive Design: Works seamlessly on desktop, tablet, and mobile devices
-- Export Results: Download your feedback as a PDF report
+
 
